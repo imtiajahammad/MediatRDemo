@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "7ywXl1eaA40GZ49UmS6s3gjV+6dupKwocL0DsooeXf/b+5/roA1lar3vGer8qqUFWtaF993EAHUy9HBym7cWQQ==",
+  "dgSpecHash": "DN76DYSfZvbG+N0qZuLGjQSEYr4mB/z1zIlULFePns+pV/E3dg6GVLn220fbCPMRXHuV+Rpur1tDXbAfxYzckQ==",
   "success": true,
   "projectFilePath": "/Users/imtiajahammad/Development/dotnetCore/MediatRDemo/DemoLibrary/DemoLibrary.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/imtiajahammad/.nuget/packages/mediatr/11.1.0/mediatr.11.1.0.nupkg.sha512",
+    "/Users/imtiajahammad/.nuget/packages/mediatr.contracts/1.0.1/mediatr.contracts.1.0.1.nupkg.sha512"
+  ],
   "logs": []
 }
